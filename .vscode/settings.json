@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\user\\OneDrive\\Desktop\\JTattoo-1.6.13.jar"
+    ]
+}
