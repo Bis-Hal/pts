@@ -64,7 +64,9 @@ public class LoginPage extends JPanel {
 
         gbc.gridx = 1;
         gbc.gridy = 4;
-        // gbc.fill = 
+        gbc.gridwidth = 4;
+        gbc.gridheight = 4;
+        gbc.fill = GridBagConstraints.HORIZONTAL;
         gbc.insets = new Insets(5,5,5,5);
         add(imageLabel, gbc);
 
